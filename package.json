@@ -1,0 +1,25 @@
+{
+  "name": "myserver",
+  "version": "1.0.0",
+  "description": "Simple Node Web Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xalaw/simple-node-server.git"
+  },
+  "keywords": [
+    "Web",
+    "Server",
+    "Node",
+    "Simple"
+  ],
+  "author": "xalaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xalaw/simple-node-server/issues"
+  },
+  "homepage": "https://github.com/xalaw/simple-node-server#readme"
+}
